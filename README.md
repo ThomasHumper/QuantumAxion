@@ -1,3 +1,5 @@
+<img src="/thumbnail.jpg">
+
 # QuantumAxiom
 
 **A simple, lightweight microforum for sharing thoughts, starting discussions, and connecting with a community.**
